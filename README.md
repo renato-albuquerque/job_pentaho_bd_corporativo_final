@@ -1,6 +1,6 @@
 # Projeto Unidade 02 | PENTAHO | Data Analytics | Digital College Brasil
 
-Desenvolvimento de aplicação de JOB no PENTAHO para carregar o Data Warehouse.<br>
+Desenvolvimento para automatizar carga de dados no DW, utilizando JOB no PENTAHO.<br>
 Tecnologias utilizadas: SQL / PostgreSQL / Pentaho.<br>
 
 Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
@@ -13,7 +13,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 3. Criar estrutura física do bd STAGE.
 4. Criar tabelas no bd STAGE.
 5. Conectar base de dados `corporativo_final` e `stage` no PENTAHO.
-6. Desenvolver o processo de ETL para carregar o STAGE. Criar os fluxos (ktr's) no PENTAHO para cada tabela (produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal).
+6. Desenvolver o processo de ETL para carregar o STAGE. Criar os fluxos (ktr's) no PENTAHO para cada tabela (produto, pessoa_fisica, nota_fiscal, item_nota_fiscal).
 7. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
 
 
