@@ -23,9 +23,9 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ## 3. Tabelas bd STAGE, estrutura física (_Imagem ilustrativa_).
 ![screenshot](/images/estrut_fis_bd_stage.png) <br>
 
-## 4. Conectar base de dados `corporativo_final` e `stage` no PENTAHO.
+## 5. Conectar base de dados `corporativo_final` e `stage` no PENTAHO.
 ![screenshot](/images/conexao_bds_postgres_pentaho.png) <br>
 
 ### Transformações no PENTAHO (ktr's).
 
-## 5. Execução da sequência de STEPS no Pentaho, tabela `produtos`.
+## 6. Execução da sequência de STEPS no Pentaho, tabela `produtos`.
