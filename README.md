@@ -1,6 +1,6 @@
 # Projeto Unidade 02 | PENTAHO | Data Analytics | Digital College Brasil
 
-Desenvolvimento para automatizar carga de dados no DW, utilizando JOB no PENTAHO.<br>
+Desenvolvimento de projeto para automatizar carga de dados no DW, utilizando JOB no PENTAHO.<br>
 Tecnologias utilizadas: SQL / PostgreSQL / Pentaho.<br>
 
 Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
