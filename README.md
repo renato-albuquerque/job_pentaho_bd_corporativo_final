@@ -8,4 +8,16 @@ Curso: Data Analytics (Turma 18) <br>
 Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
 ## Etapas de Desenvolvimento (Summary)
-1. Entendimento do projeto. Através do Pentaho, carregar dados nas tabelas no dw, PostgreSQL `(bd corporativo_final)`".
+1. Entendimento macro do projeto. Através do Pentaho (ktr's & job's), carregar dados do STAGE para o DW, PostgreSQL `(bd corporativo_final)`".
+2. Criar bd STAGE.
+3. Criar estrutura física do bd STAGE.
+4. Desenvolver o processo de ETL para carregar o STAGE. Criar os fluxos (ktr's) no PENTAHO para cada tabela.
+
+
+
+
+
+## 3. Tabelas bd STAGE, estrutura física.
+![screenshot](/images/estrut_fis_bd_stage.png) <br>
+
+## 4. Execução da sequência de STEPS no Pentaho, tabela `produtos`.
