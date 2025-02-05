@@ -24,12 +24,20 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ![screenshot](/images/estrut_fis_bd_stage.png) <br>
 
 ## 5. Processo de ETL bd STAGE (Transformações no Pentaho & Carga no PostgreSQL, tabelas: produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal). 
+
+bd stage, tabela public.produtos
 ![screenshot](/images/ktr_produtos.png) <br>
 ![screenshot](/images/stage_produtos.png) <br>
+
+bd stage, tabela public.pessoa_fisica
 ![screenshot](/images/ktr_pessoa_fisica.png) <br>
 ![screenshot](/images/stage_pessoa_fisica.png) <br>
+
+bd stage, tabela public.nota_fiscal
 ![screenshot](/images/ktr_nota_fiscal.png) <br>
 ![screenshot](/images/stage_nota_fiscal.png) <br>
+
+bd stage, tabela public.item_nota_fiscal
 ![screenshot](/images/ktr_item_nota_fiscal.png) <br>
 ![screenshot](/images/stage_item_nota_fiscal.png) <br>
 
