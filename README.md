@@ -13,7 +13,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 3. Conectar base de dados `corporativo_final` e `stage` no PENTAHO.
 4. Criar estrutura física do bd STAGE.
 5. Desenvolver o processo de ETL para carregar o bd STAGE (Tabelas e dados). Criar os fluxos (ktr's) no PENTAHO para cada tabela (produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal).
-7. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
+6. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
 
 
 
@@ -22,6 +22,8 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
 ## 4. Tabelas bd STAGE, estrutura física (_Imagem ilustrativa_).
 ![screenshot](/images/estrut_fis_bd_stage.png) <br>
+
+### Transformações no PENTAHO (ktr's).
 
 ## 5. Processo de ETL bd STAGE (Transformações no Pentaho & Carga no PostgreSQL, tabelas: produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal). 
 
@@ -41,6 +43,6 @@ bd stage, tabela public.item_nota_fiscal
 ![screenshot](/images/ktr_item_nota_fiscal.png) <br>
 ![screenshot](/images/stage_item_nota_fiscal.png) <br>
 
-### Transformações no PENTAHO (ktr's).
+### Job no PENTAHO.
 
-## 6. Execução da sequência de STEPS no Pentaho, tabela `produtos`.
+## 6. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
