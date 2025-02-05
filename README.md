@@ -23,7 +23,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ## 4. Tabelas bd STAGE, estrutura física (_Imagem ilustrativa_).
 ![screenshot](/images/estrut_fis_bd_stage.png) <br>
 
-### Transformações no PENTAHO (ktr's).
+### *** Transformações no PENTAHO (ktr's). ***
 
 ## 5. Processo de ETL bd STAGE (Transformações no Pentaho & Carga no PostgreSQL, tabelas: produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal). 
 
@@ -43,6 +43,6 @@ bd stage, tabela public.item_nota_fiscal
 ![screenshot](/images/ktr_item_nota_fiscal.png) <br>
 ![screenshot](/images/stage_item_nota_fiscal.png) <br>
 
-### Job no PENTAHO.
+### *** Job no PENTAHO ***.
 
 ## 6. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
