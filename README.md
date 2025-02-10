@@ -15,8 +15,6 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 5. Desenvolver o processo de ETL para carregar o bd STAGE (Tabelas e dados). Criar os fluxos (ktr's) no PENTAHO para cada tabela (produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal).
 6. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
 
-
-
 ## 3. Conectar base de dados `corporativo_final` e `stage` no PENTAHO.
 ![screenshot](/images/conexao_bds_postgres_pentaho.png) <br>
 
@@ -45,4 +43,8 @@ bd stage, tabela public.item_nota_fiscal
 
 ### *** Job no PENTAHO ***.
 
-## 6. Desenvolver processo de ETL para carregar o Data Warehouse. Criar o job no PENTAHO.
+## 6. Desenvolver processo de ETL para carregar o STAGE. Criar o job no PENTAHO.
+Desenvolvimento de JOB no PENTAHO, acessando cada TRANSFORMAÇÃO (Tabelas: produtos, pessoa_fisica, nota_fiscal, item_nota_fiscal) para carregar os dados de forma automatizada no bd STAGE.
+
+![screenshot](/images/job_stage.png) <br>
+
